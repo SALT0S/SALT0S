@@ -5,4 +5,3 @@ I am a software engineering student focused on learning web development and mobi
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with web applications
 - 💬 Ask me about web and frontend development
-- 📫 How to reach me: josesansalt@gmail.com
