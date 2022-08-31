@@ -1,11 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/joseschzslts/image/upload/v1656919555/large_Banner_6ac719ac7c.png)](https://www.joseschz.com/)
-
 <h1 align="center">Hi 👋, I'm Saltos</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salt0s&label=Profile%20views&color=0e75b6&style=flat" alt="salt0s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salt0s" alt="salt0s" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jose_schzs" target="blank"><img src="https://img.shields.io/twitter/follow/jose_schzs?logo=twitter&style=for-the-badge" alt="jose_schzs" /></a> </p>
 
