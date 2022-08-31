@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/joseschzslts/image/upload/v1656919554/Banner_6ac719ac7c.png)](https://www.joseschz.com/)
+[![MasterHead](https://res.cloudinary.com/joseschzslts/image/upload/v1656919555/large_Banner_6ac719ac7c.png)](https://www.joseschz.com/)
 
 <h1 align="center">Hi 👋, I'm Saltos</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
