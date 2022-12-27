@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jose_schzs" target="blank"><img src="https://img.shields.io/twitter/follow/jose_schzs?logo=twitter&style=for-the-badge" alt="jose_schzs" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift 🍎**
 
 - 👨‍💻 All of my projects are available at [https://www.joseschz.com/projects](https://www.joseschz.com/projects)
 
